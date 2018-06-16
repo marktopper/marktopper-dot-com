@@ -77,13 +77,13 @@ $age = (date("md", date("U", mktime(0, 0, 0, $birthDate[0], $birthDate[1], $birt
 	
 	-->
 
-My name is Mark Diderichsen, nickname Topper.<br>
+My name is Mark Topper Diderichsen<br>
 I'm an <?php echo $age; ?> years old web-developer from Denmark.<br>
-I focus on the <a href="https://github.com/marktopper" class="blue" target="_blank">core PHP</a>, as well I really enjoy working with HTML5 & CSS3.<br>
+I focus on the <a href="https://github.com/marktopper" class="blue" target="_blank">backend-development</a>, as well I really enjoy working with security & scalability.<br>
 In my spare time I do writing on my <a href="https://webman.io/blog/" class="green" target="_blank">blog</a>, as well as keeping myself updated on the technology.<br>
-You can see my <a href="https://dribbble.com/webman" class="pink" target="_blank">designs</a> and my previous <a href="https://work.webman.io/" class="orange" target="_blank">projects</a> on my <a href="http://webman.io/cv-en.pdf" class="blue" target="_blank">life resume</a>.<br>
+You can see my <a href="https://dribbble.com/webman" class="pink" target="_blank">designs</a> and my previous <a href="https://webman.io/portfolio/" class="orange" target="_blank">projects</a> on my <a href="https://webman.io/resume.pdf" class="blue" target="_blank">life resume</a>.<br>
 That was all <a href="https://webman.io/about/" class="pink" target="_blank">about me</a> for now, so keep yourself <a href="https://twitter.com/webmanio" class="orange" target="_blank">updated</a>.<br>
-- Mark "Topper".
+- Mark Topper.
 
 </p>
 
